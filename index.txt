@@ -11,7 +11,11 @@ I
 j
 k
 l
+m
+n
+o
+p
 
 
 
-These are alphabits I know starting
+These are alphabits I know starting------
